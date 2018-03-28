@@ -1,0 +1,54 @@
+body{
+	margin: 0;
+	color: white;
+}
+
+
+header{
+	background: url(images/header-background.jpg);
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	text-align: center;
+}
+
+
+.horizontal-list{
+	list-style: none;
+}
+
+.horizontal-list li{
+	display: inline-block;
+	margin-right: 10px;
+}
+
+
+.grey{
+	color: lightgrey;
+	background-color: white;
+}	
+
+#content{
+	margin-top: 25vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
